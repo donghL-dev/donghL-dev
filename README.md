@@ -37,10 +37,10 @@
 
 ### 📚 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [2020년 회고📝](https://donghun.dev//2020-Retrospective)
-- [[WEB] RESTful API에 대해서 알아보자. 💡](https://donghun.dev//Restful-API)
-- [[Firebase] FCM에 대해서 알아보자. 🔔](https://donghun.dev//Firebase-Cloud-Messaging)
-- [신입 개발자의 입사 한 달 차 회고 📝](https://donghun.dev//Junior-Developer-Retrospective)
+- [2020년 회고📝](https://donghun.dev/2020-Retrospective)
+- [[WEB] RESTful API에 대해서 알아보자. 💡](https://donghun.dev/Restful-API)
+- [[Firebase] FCM에 대해서 알아보자. 🔔](https://donghun.dev/Firebase-Cloud-Messaging)
+- [신입 개발자의 입사 한 달 차 회고 📝](https://donghun.dev/Junior-Developer-Retrospective)
 <!-- BLOG-POST-LIST:END -->
 
 [Java]: https://en.wikipedia.org/wiki/Java_(programming_language)
