@@ -2,11 +2,9 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FdonghL-dev%2FdonghL-dev&title=views)](https://hits.seeyoufarm.com) [![](https://img.shields.io/badge/%F0%9F%8F%A0-Home-blue)](https://resume.donghun.dev) [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://donghun.dev/)](https://donghun.dev/) [![GitHub followers](https://img.shields.io/github/followers/donghl-dev?style=social)](https://github.com/donghL-dev?tab=followers)
 
+![message_svg](https://github.com/donghL-dev/donghL-dev/blob/master/chat.svg)
+
 ![Donghun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=donghl-dev&show_icons=true)
-
-* I am a Back-end Engineer with great interested in various technologies and CS(Computer Science). 💻
-
-* I want to share my experience with a lot of people, and I hope get good feedback through sharing. 🙏
 
 ### Connect with me:
 
@@ -33,14 +31,17 @@
 [<img align="left" alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][Git]
 [<img align="left" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/89bdd9644f44d1b12180fd512b95574fe4c54617/topics/github-api/github-api.png" />][Github]
 
-![](https://user-images.githubusercontent.com/33312179/89108870-2f6b9d80-d477-11ea-8f41-f249c7d12a86.png)
+<br />
+
+<!-- ![](https://user-images.githubusercontent.com/33312179/89108870-2f6b9d80-d477-11ea-8f41-f249c7d12a86.png) -->
+![snake svg](https://github.com/donghL-dev/donghL-dev/blob/output/github-contribution-grid-snake.svg)
 
 ### 📚 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [원리부터 배우는 관계형 데이터베이스 실전 입문](https://donghun.dev/realtional-database-real-tutorial)
 - [2020년 회고📝](https://donghun.dev/2020-Retrospective)
 - [[WEB] RESTful API에 대해서 알아보자. 💡](https://donghun.dev/Restful-API)
 - [[Firebase] FCM에 대해서 알아보자. 🔔](https://donghun.dev/Firebase-Cloud-Messaging)
-- [신입 개발자의 입사 한 달 차 회고 📝](https://donghun.dev/Junior-Developer-Retrospective)
 <!-- BLOG-POST-LIST:END -->
 
 [Java]: https://en.wikipedia.org/wiki/Java_(programming_language)
