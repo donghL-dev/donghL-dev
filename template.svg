@@ -229,7 +229,7 @@
   <!-- typing 1 -->
   <g transform="translate(10, 0)" class="msg-1 bubble">
     <rect width="220" height="42" rx="18.0355" />
-    <text x="15" y="27">Hello, I'm Donghun Lim</text>
+    <text x="15" y="27">Hello, I'm Donghun Lim.</text>
   </g>
 
   <!-- typing 2 -->
@@ -301,9 +301,9 @@
 
   <!-- typing 4 -->
   <g transform="translate(10, 167)" class="msg-4">
-    <rect width="443" height="66.1302" rx="18.0355" class="bubble" />
+    <rect width="460" height="66.1302" rx="18.0355" class="bubble" />
     <text x="15" y="27">I want to share my experience with a lot of people,</text>
-    <text x="15" y="50">and I hope get good feedback through sharing. 🙏</text>
+    <text x="15" y="50">and I hope to get good feedback through sharing. 🙏</text>
   </g>
 
   <!-- typing 5 -->
