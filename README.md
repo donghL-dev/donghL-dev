@@ -38,10 +38,10 @@
 
 ### 📚 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [2021년 회고📝](https://donghun.dev/2021-Retrospective)
 - [code-server를 이용해서 어디서든 사용할 수 있는 Personal IDE를 만들어보자.](https://donghun.dev/code-server-tutorial-guide)
 - [원리부터 배우는 관계형 데이터베이스 실전 입문](https://donghun.dev/realtional-database-real-tutorial)
 - [2020년 회고📝](https://donghun.dev/2020-Retrospective)
-- [[WEB] RESTful API에 대해서 알아보자. 💡](https://donghun.dev/Restful-API)
 <!-- BLOG-POST-LIST:END -->
 
 [Java]: https://en.wikipedia.org/wiki/Java_(programming_language)
