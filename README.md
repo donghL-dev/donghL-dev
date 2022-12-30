@@ -38,10 +38,10 @@
 
 ### 📚 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [2022년 회고📝](https://donghun.dev/2022-Retrospective)
 - [PostgreSQL Schema를 MySQL로 마이그레이션 시켜보자.](https://donghun.dev/PostgreSQL-To-MySQL)
 - [2021년 회고📝](https://donghun.dev/2021-Retrospective)
 - [code-server를 이용해서 어디서든 사용할 수 있는 Personal IDE를 만들어보자.](https://donghun.dev/code-server-tutorial-guide)
-- [원리부터 배우는 관계형 데이터베이스 실전 입문](https://donghun.dev/realtional-database-real-tutorial)
 <!-- BLOG-POST-LIST:END -->
 
 [Java]: https://en.wikipedia.org/wiki/Java_(programming_language)
