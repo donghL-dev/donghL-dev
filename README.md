@@ -4,7 +4,7 @@
 
 ![message_svg](https://github.com/donghL-dev/donghL-dev/blob/master/template.svg)
 
-![Donghun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=donghl-dev)
+![Donghun's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=donghl-dev)
 
 ### Connect with me:
 
