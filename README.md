@@ -38,10 +38,10 @@
 
 ### 📚 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [HiGH FiVE 2024 후기 ✨](https://donghun.dev/HiGH-FiVE-2024-REVIEWS)
 - [2023년 회고📝](https://donghun.dev/2023-Retrospective)
 - [INFCON 2023 후기 ✨](https://donghun.dev/INFCON-2023-REVIEWS)
 - [2022년 회고📝](https://donghun.dev/2022-Retrospective)
-- [PostgreSQL Schema를 MySQL로 마이그레이션 시켜보자.](https://donghun.dev/PostgreSQL-To-MySQL)
 <!-- BLOG-POST-LIST:END -->
 
 [Java]: https://en.wikipedia.org/wiki/Java_(programming_language)
