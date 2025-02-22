@@ -38,10 +38,10 @@
 
 ### 📚 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [2024년 회고 📝](https://donghun.dev/2024-Retrospective)
 - [INFCON 2024 후기 ✨](https://donghun.dev/INFCON-2024-REVIEWS)
 - [HiGH FiVE 2024 후기 ✨](https://donghun.dev/HiGH-FiVE-2024-REVIEWS)
 - [2023년 회고📝](https://donghun.dev/2023-Retrospective)
-- [INFCON 2023 후기 ✨](https://donghun.dev/INFCON-2023-REVIEWS)
 <!-- BLOG-POST-LIST:END -->
 
 [Java]: https://en.wikipedia.org/wiki/Java_(programming_language)
