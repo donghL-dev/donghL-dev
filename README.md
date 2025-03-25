@@ -1,6 +1,7 @@
 ## Welcome to my Github Profile 👋
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FdonghL-dev%2FdonghL-dev&title=views)](https://hits.seeyoufarm.com) [![](https://img.shields.io/badge/%F0%9F%8F%A0-Home-blue)](https://resume.donghun.dev) [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://donghun.dev/)](https://donghun.dev/) [![GitHub followers](https://img.shields.io/github/followers/donghl-dev?style=social)](https://github.com/donghL-dev?tab=followers)
+<!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FdonghL-dev%2FdonghL-dev&title=views)](https://hits.seeyoufarm.com) --> 
+[![](https://img.shields.io/badge/%F0%9F%8F%A0-Home-blue)](https://resume.donghun.dev) [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://donghun.dev/)](https://donghun.dev/) [![GitHub followers](https://img.shields.io/github/followers/donghl-dev?style=social)](https://github.com/donghL-dev?tab=followers)
 
 ![message_svg](https://github.com/donghL-dev/donghL-dev/blob/master/template.svg)
 
