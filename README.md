@@ -8,7 +8,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="donghL-dev Velog" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://donghun.dev/)[<img align="left" alt="Running Page" width="22px" src="https://files.svgcdn.io/fluent-emoji-high-contrast/running-shoe.svg" />](https://running.donghun.dev/)[<img align="left" alt="About" width="22px" src="https://user-images.githubusercontent.com/33312179/89108359-c2ee9f80-d472-11ea-931b-fe55d8dbb71b.png" />](https://resume.donghun.dev/)[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/donghun-lim-l34050/)[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/dong_h_08/)
+[<img align="left" alt="donghL-dev Velog" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://donghun.dev/)[<img align="left" alt="Running Page" width="22px" src="https://files.svgcdn.io/emojione-monotone/running-shirt.svg" />](https://running.donghun.dev/)[<img align="left" alt="About" width="22px" src="https://user-images.githubusercontent.com/33312179/89108359-c2ee9f80-d472-11ea-931b-fe55d8dbb71b.png" />](https://resume.donghun.dev/)[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/donghun-lim-l34050/)[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/dong_h_08/)
 
 <br />
 
